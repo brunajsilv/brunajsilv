@@ -23,7 +23,7 @@ Bem-vinda(o) ao meu perfil!
 - Projetos que possam ajudar a desenvolver habilidades de iniciante e apoiar minha transição para a área de tecnologia
 
 ### 📫 Como entrar em contato comigo...
-- [LinkedIn](https://www.linkedin.com/in/brunajsilv)
+- [LinkedIn](https://www.linkedin.com/in/bruna-jesus-silva-/)
 - Email: brunajs@outlook.com.br
 
 ### ✨ Curiosidades
