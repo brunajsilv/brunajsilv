@@ -37,5 +37,7 @@ Bem-vinda(o) ao meu perfil!
 ---
 
 Obrigada por visitar meu perfil! Fique à vontade para entrar em contato ou conferir meus projetos – sempre tenho algo novo para compartilhar!
+
+
 ![ByeBabyBadTeefsGIF](https://github.com/user-attachments/assets/d88dbaa8-a9f1-4176-8748-d1497297ecb4)
 
